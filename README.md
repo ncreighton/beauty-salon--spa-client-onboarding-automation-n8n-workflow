@@ -1,2 +1,28 @@
-# beauty-salon--spa-client-onboarding-automation-n8n-workflow
-Welcome emails, document collection, task assignment, and progress tracking on autopilot. Consistent onboarding without manual oversight.
+# Beauty Salon & Spa Client Onboarding Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi00jeTt1g06xy0Ved0e3z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi00jeTt1g06xy0Ved0e3z)
+
